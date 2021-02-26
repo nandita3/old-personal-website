@@ -59,7 +59,7 @@ nav {
 
 /* insert this class in the ul tag on the click of the hamburger menu icon */
 .show-items {
-    height: 10rem;
+    height: 12rem;
     text-align: center;
     transition: 1s;
 }
