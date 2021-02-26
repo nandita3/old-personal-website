@@ -15,7 +15,7 @@ a {
 }
 
 a:hover {
-    color: blue;
+    color: #33adff;
 }
 
 nav {
@@ -71,6 +71,10 @@ nav {
 
 .about-me {
     margin-left: 16px;
+}
+
+.about-me a {
+    color: #33adff;
 }
 
 .introduction h2 {
