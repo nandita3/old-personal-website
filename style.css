@@ -112,6 +112,14 @@ nav {
     margin-bottom: 20px;
 }
 
+.PM-book-list {
+    list-style-type: disc;
+}
+
+.PM-book-list li{
+    margin-bottom: 20px;
+}
+
 /* Media query */
 
 @media (min-width: 800px) {
